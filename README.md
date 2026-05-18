@@ -11,4 +11,4 @@
 
 > 💡 **Please Note:** This is a custom blacklist database curated by our staff and external partners. While the database is publicly viewable, it is tailored specifically for our infrastructure and is not required for use by outside networks and developers.
 
--Dynex Studios Corp
+- Dynex Studios Corp
